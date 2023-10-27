@@ -1,0 +1,1 @@
+{"name":"Local: 13_removal_game","url":"d:\\Vs_Code\\Cp\\CSES\\DP\\13_removal_game.cpp","tests":[{"id":1698177657564,"input":"4\n4 5 1 3","output":""},{"id":1698178062081,"input":"3\n1 2 9","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Vs_Code\\Cp\\CSES\\DP\\13_removal_game.cpp","group":"local","local":true}
