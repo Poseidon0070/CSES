@@ -24,7 +24,7 @@ int findInd(int st,int n,vector<Tri> &v){
     int high = n-1;
     int ans = -1;
     while(low <= high){
-        int mid = (low+high) >> 1;
+        int mid = (low+high) >> 1; 
         if(v[mid].end < st){
             ans = mid;
             low = mid+1;
