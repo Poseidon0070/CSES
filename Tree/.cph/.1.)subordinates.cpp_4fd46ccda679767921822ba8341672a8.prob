@@ -1,0 +1,1 @@
+{"name":"Local: 1","url":"d:\\Vs_Code\\Cp\\CSES\\Tree\\1.)subordinates.cpp","tests":[{"id":1722845307011,"input":"5\n1 1 2 3","output":"4 1 1 0 0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Vs_Code\\Cp\\CSES\\Tree\\1.)subordinates.cpp","group":"local","local":true}
