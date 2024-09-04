@@ -26,13 +26,8 @@ signed main()
         for(auto &j:adj){
             if(dist[j[0]] != NINF &&  dist[j[1]] < dist[j[0]] + j[2]){
                 dist[j[1]] = dist[j[0]] + j[2];
-                // cout << j[0] << " " << j[1] << " " << j[2] << "\n"; 
-                // cout << dist[j[1]] << "\n";
             }
         }
-        // for(int i{1};i<=n;i++){
-        //     cout << dist[i] << " ";
-        // }cout << "\n";
     }
     int ans = dist[n];
 
